@@ -1,0 +1,17 @@
+{
+    "name": "inputmethod.liu-xiao-guo",
+    "description": "description of inputmethod",
+    "architecture": "all",
+    "title": "inputmethod",
+    "hooks": {
+        "inputmethod": {
+            "apparmor": "inputmethod.apparmor",
+            "desktop":  "inputmethod.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

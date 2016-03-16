@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=inputmethod
+Exec=qmlscene $@ Main.qml
+Icon=inputmethod.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
